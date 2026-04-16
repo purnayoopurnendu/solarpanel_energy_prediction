@@ -41,3 +41,6 @@ This project predicts solar panel energy output using weather data such as irrad
 ```bash
 docker build -t solar-project .
 docker run solar-project
+
+
+update 1
